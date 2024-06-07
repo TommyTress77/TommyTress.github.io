@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>History of Skibidi toilet</title>
+</head>
+<body bgcolor="Black" text="cyan">
+    <font color="red" size="15" face="Arial">
+        <h1>History of Skibidi toilet</h1><br>
+        Skibidi Toilet is a machinima web series of YouTube videos and shorts created by Alexey Gerasimov and uploaded on his YouTube channel DaFuq!?Boom!. Produced using Source Filmmaker, the series follows a fictional war between human-headed toilets and humanoid characters with electronic devices for heads.
+    </font>
+</body>
+</html>

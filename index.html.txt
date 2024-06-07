@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title>Kumalala</title>
+</head>
+<body bgcolor="Black" text="cyan">
+    <font color="red" size="15" face="Arial">
+        <h1>Welcome to the internet!</h1>
+        Skibidi toilet
+    </font><br>
+    <a href="history.html">Click here to know more</a><br>
+    <img src="eh-skubudi.jpeg"><br>
+    <marquee>Brr skibidi dop dop dop yes yes skibidi double u deep deep skibidi dop dop dop yes yes skibidi double u deep deep skibidi dop dop dop yes yes skibidi double u deep deep</marquee>
+    <table border="5">
+        <tr>
+            <th>Toilet</th>
+            <th>Hardware</th>
+        </tr>
+        <tr>
+            <td>Gman</td>
+            <td>UTCM</td>
+        </tr>
+        <tr>
+            <td>Scientist</td>
+            <td>UTSM</td>
+        </tr>
+        <tr>
+            <td>Astro Detainer</td>
+            <td>UTTM</td>
+        </tr>
+    </table>
+</body>
+</html>
